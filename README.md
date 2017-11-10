@@ -1,5 +1,2 @@
 # cni
-cni web
-
-
-first to GitHub
+cni web delte
